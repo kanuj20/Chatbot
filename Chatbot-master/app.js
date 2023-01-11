@@ -98,6 +98,7 @@ async function getBtnAnswer(id) {
                 return (results.subtitles[i].answer);
 
         }
+        //ram ram
     } catch (error) {
         console.log(error);
     }
